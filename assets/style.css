@@ -1,0 +1,27 @@
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2018/07/19/12/50/train-3548467_960_720.jpg");
+}
+.table {
+  color: black;
+  font-size: 2rem;
+  font-style: oblique;
+  font-weight: 800;
+  background-color: rgb(179, 59, 29);
+}
+.jumbotron {
+  color: #fff;
+  background-position-y: 10%;
+  color: #fff;
+  background-color: green;
+}
+
+div.panel-body {
+  background-image: url("");
+  color: black;
+}
+
+.btn-primary {
+  background-color: green;
+  border-color: #fff;
+  font-weight: bold;
+}
